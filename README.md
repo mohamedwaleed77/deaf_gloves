@@ -23,4 +23,4 @@ during the runtime of the simulation but in real world it's just resistor
 
 the UART reviever python code:
 
-![Image Alt text]("deaf_gloves/Screenshot_(2083).png")
+![Image Alt text](deaf_gloves/Screenshot_(2083).png)
