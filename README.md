@@ -34,7 +34,7 @@ data sent through TXD(micro_controller) should go to pin RXD(usb)
 
 the UART reviever python code:
 
-![Image Alt text](deaf_gloves/Screenshot_(2086).png)
+![Image Alt text](deaf_gloves/images/Screenshot_(2086).png)
 
 
 I will update more information on a PDF file that explains everything later (after the porject discussion)
