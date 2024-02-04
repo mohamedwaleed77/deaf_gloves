@@ -10,4 +10,5 @@ activity diagram:
 ![Image Alt text](deaf_gloves/images/activity_diagram.jpg)
 
 sequence diagram:
+
 ![Image Alt text](deaf_gloves/images/sequence_diagram.jpg)
