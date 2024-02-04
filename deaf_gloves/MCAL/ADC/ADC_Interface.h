@@ -1,0 +1,19 @@
+#ifndef INCLUDE_MCAL_ADC_ADC_INTERFACE_H_
+#define INCLUDE_MCAL_ADC_ADC_INTERFACE_H_
+
+
+typedef enum{
+	ADC0,
+	ADC1,
+	ADC2,
+	ADC3,
+	ADC4,
+	ADC5,
+	ADC6,
+	ADC7,
+}ADC_CHANNELS;
+
+u16 MADC_u16GetDigitalvalue (ADC_CHANNELS A_AdcChannel);
+void MADC_voidInit (void);
+
+#endif /* INCLUDE_MCAL_ADC_ADC_INTERFACE_H_ */
