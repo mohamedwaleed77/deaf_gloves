@@ -1,7 +1,8 @@
 This project aims to convert flex sensor installed on fingers signs Into binary values that will be
 translated based on customized dictionary to strings that are pronounced by peripheral device. 
 
-don't forget to change slave address in (LDCI2C_CFG.h).. in the prouteos simulation LCD adress was 0x020 
+don't forget to change slave address in (LDCI2C_CFG.h).. 
+in the prouteos simulation PCF8574 adress was 0x020 (a0,a1,a2->ground)  
 but for the physical LCD i used (PCF8574T-I2C-1602-16X2-LCD) address was 0x27
  
 layers:
