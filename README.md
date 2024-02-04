@@ -1,4 +1,4 @@
-This project aims to convert flex sensor installed on fingers signs Into binary values that will be
+This project aims to convert flex sensor (installed on fingers) signs Into binary values that will be
 translated based on customized dictionary to strings that are pronounced by peripheral device. 
 
 don't forget to change slave address in (LDCI2C_CFG.h).. 
