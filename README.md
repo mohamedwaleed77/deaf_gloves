@@ -27,7 +27,8 @@ how changing resistance change the behaviour
 
 DO NOT FORGET TO Invert RXD AND TXD Pins 
 if you are using USB to TTL as in the simulation i'm connecting two ports
-yet in real life you'll be using one port (usb to ttl) and the data recieved from 
+using a virtual ports program..
+However in real life you'll be using one port (usb to ttl) and the data recieved from 
 TXD(usb) should go to pin RXD(micro_controller)
 data sent through TXD(micro_controller) should go to pin RXD(usb)
 
