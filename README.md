@@ -15,7 +15,7 @@ sequence diagram:
 
 this image represents the connections:
 
-![Image Alt text](deaf_gloves/B1C5843y972AVTE0Re.pdf1.png)
+![Image Alt text](deaf_gloves/images/B1C5843y972AVTE0Re.pdf1.png)
 
 note flex sensors are just resistors in the previous connections images 
 i made last resistance as a potientometer in to be able to change it
