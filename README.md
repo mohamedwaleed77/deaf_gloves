@@ -12,3 +12,11 @@ activity diagram:
 sequence diagram:
 
 ![Image Alt text](deaf_gloves/images/sequence_diagram.jpg)
+
+this image represents the connections:
+
+![Image Alt text](deaf_gloves/B1C5843y972AVTE0Re.pdf1.png)
+
+note flex sensors are just resistors in the previous connections images 
+i made last resistance as a potientometer in to be able to change it
+during the runtime of the simulation but in real world it's just resistor
