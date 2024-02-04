@@ -51,7 +51,7 @@ struct DictionaryEntry dictionary[] = {
     {0b11100, "cantaloupe"},
     {0b11101, "honeydew"},
     {0b11110, "dragonfruit"},
-    {0b11111, "passionfruit"},
+    {0b11111, "passioxfruit"},
 };
 
 u8 GET_STATS();
@@ -70,7 +70,7 @@ int main (void)
 	LCD_displayString("I ");
 	LCD_displayCharacter(0);
 	LCD_displayString(" IMT");
-	_delay_ms(10000);
+	_delay_ms(5000);
 	MTIMER0_voidSetCTCCallback(Timer0_CTC);
 	MTIMER0_voidInit();
 	MUART_voidInit();
@@ -103,10 +103,10 @@ u8 GET_STATS(){
 void Timer0_CTC() {
     static u16 counter = 0;
     counter++;
-    u8 text, command_verified = 0;
+    u8 *text;
     u8 *receiver;
 
-    if (counter == 5000) {//10000=2 seconds
+    if (counter == 30000) {//10000=2 seconds
         counter = 0;
         stats = GET_STATS();
 
