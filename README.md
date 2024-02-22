@@ -43,4 +43,5 @@ so wish me luck
 
 
 ****update****
-[embed]deaf_gloves/69t8li0rcy1q2374LY.pdf[/embed]
+you can find the PDF file now on:
+deaf_gloves/69t8li0rcy1q2374LY.pdf 
