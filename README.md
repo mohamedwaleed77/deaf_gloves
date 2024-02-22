@@ -40,3 +40,7 @@ the UART reviever python code:
 
 I will update more information on a PDF file that explains everything later (after the porject discussion)
 so wish me luck
+
+
+****update****
+[embed]deaf_gloves/69t8li0rcy1q2374LY.pdf[/embed]
