@@ -23,8 +23,8 @@ this image represents the connections:
 
 FLEX SENSORS Are represented as resistors (they actually are.)
 but one of them is a potentiometer so you can simulate 
-how changing resistance change the behaviour 
-
+how changing resistance change the behaviour (in proteus) 
+..... 
 DO NOT FORGET TO Invert RXD AND TXD Pins 
 if you are using USB to TTL as in the simulation i'm connecting two ports
 using a virtual ports program..
