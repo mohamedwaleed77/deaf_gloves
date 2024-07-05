@@ -45,3 +45,9 @@ so wish me luck
 ****update****
 you can find the PDF file now on:
 deaf_gloves/69t8li0rcy1q2374LY.pdf 
+
+
+
+
+https://github.com/mohamedwaleed77/deaf_gloves/assets/139256760/6a9945c2-a17d-4604-9feb-9fbd1fd049f5
+
